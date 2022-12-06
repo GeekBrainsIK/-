@@ -1,0 +1,15 @@
+C:\homework\T23\bin\Debug\net6.0\T23.exe
+C:\homework\T23\bin\Debug\net6.0\T23.deps.json
+C:\homework\T23\bin\Debug\net6.0\T23.runtimeconfig.json
+C:\homework\T23\bin\Debug\net6.0\T23.dll
+C:\homework\T23\bin\Debug\net6.0\T23.pdb
+C:\homework\T23\obj\Debug\net6.0\T23.csproj.AssemblyReference.cache
+C:\homework\T23\obj\Debug\net6.0\T23.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework\T23\obj\Debug\net6.0\T23.AssemblyInfoInputs.cache
+C:\homework\T23\obj\Debug\net6.0\T23.AssemblyInfo.cs
+C:\homework\T23\obj\Debug\net6.0\T23.csproj.CoreCompileInputs.cache
+C:\homework\T23\obj\Debug\net6.0\T23.dll
+C:\homework\T23\obj\Debug\net6.0\refint\T23.dll
+C:\homework\T23\obj\Debug\net6.0\T23.pdb
+C:\homework\T23\obj\Debug\net6.0\T23.genruntimeconfig.cache
+C:\homework\T23\obj\Debug\net6.0\ref\T23.dll
