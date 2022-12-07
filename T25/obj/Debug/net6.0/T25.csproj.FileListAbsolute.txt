@@ -1,0 +1,15 @@
+C:\homework\T25\bin\Debug\net6.0\T25.exe
+C:\homework\T25\bin\Debug\net6.0\T25.deps.json
+C:\homework\T25\bin\Debug\net6.0\T25.runtimeconfig.json
+C:\homework\T25\bin\Debug\net6.0\T25.dll
+C:\homework\T25\bin\Debug\net6.0\T25.pdb
+C:\homework\T25\obj\Debug\net6.0\T25.csproj.AssemblyReference.cache
+C:\homework\T25\obj\Debug\net6.0\T25.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework\T25\obj\Debug\net6.0\T25.AssemblyInfoInputs.cache
+C:\homework\T25\obj\Debug\net6.0\T25.AssemblyInfo.cs
+C:\homework\T25\obj\Debug\net6.0\T25.csproj.CoreCompileInputs.cache
+C:\homework\T25\obj\Debug\net6.0\T25.dll
+C:\homework\T25\obj\Debug\net6.0\refint\T25.dll
+C:\homework\T25\obj\Debug\net6.0\T25.pdb
+C:\homework\T25\obj\Debug\net6.0\T25.genruntimeconfig.cache
+C:\homework\T25\obj\Debug\net6.0\ref\T25.dll
