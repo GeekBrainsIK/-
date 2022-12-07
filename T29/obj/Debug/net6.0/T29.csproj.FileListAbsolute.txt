@@ -1,0 +1,15 @@
+C:\homework\T29\bin\Debug\net6.0\T29.exe
+C:\homework\T29\bin\Debug\net6.0\T29.deps.json
+C:\homework\T29\bin\Debug\net6.0\T29.runtimeconfig.json
+C:\homework\T29\bin\Debug\net6.0\T29.dll
+C:\homework\T29\bin\Debug\net6.0\T29.pdb
+C:\homework\T29\obj\Debug\net6.0\T29.csproj.AssemblyReference.cache
+C:\homework\T29\obj\Debug\net6.0\T29.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework\T29\obj\Debug\net6.0\T29.AssemblyInfoInputs.cache
+C:\homework\T29\obj\Debug\net6.0\T29.AssemblyInfo.cs
+C:\homework\T29\obj\Debug\net6.0\T29.csproj.CoreCompileInputs.cache
+C:\homework\T29\obj\Debug\net6.0\T29.dll
+C:\homework\T29\obj\Debug\net6.0\refint\T29.dll
+C:\homework\T29\obj\Debug\net6.0\T29.pdb
+C:\homework\T29\obj\Debug\net6.0\T29.genruntimeconfig.cache
+C:\homework\T29\obj\Debug\net6.0\ref\T29.dll
