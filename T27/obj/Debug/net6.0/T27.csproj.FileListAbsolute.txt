@@ -1,0 +1,15 @@
+C:\homework\T27\bin\Debug\net6.0\T27.exe
+C:\homework\T27\bin\Debug\net6.0\T27.deps.json
+C:\homework\T27\bin\Debug\net6.0\T27.runtimeconfig.json
+C:\homework\T27\bin\Debug\net6.0\T27.dll
+C:\homework\T27\bin\Debug\net6.0\T27.pdb
+C:\homework\T27\obj\Debug\net6.0\T27.csproj.AssemblyReference.cache
+C:\homework\T27\obj\Debug\net6.0\T27.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework\T27\obj\Debug\net6.0\T27.AssemblyInfoInputs.cache
+C:\homework\T27\obj\Debug\net6.0\T27.AssemblyInfo.cs
+C:\homework\T27\obj\Debug\net6.0\T27.csproj.CoreCompileInputs.cache
+C:\homework\T27\obj\Debug\net6.0\T27.dll
+C:\homework\T27\obj\Debug\net6.0\refint\T27.dll
+C:\homework\T27\obj\Debug\net6.0\T27.pdb
+C:\homework\T27\obj\Debug\net6.0\T27.genruntimeconfig.cache
+C:\homework\T27\obj\Debug\net6.0\ref\T27.dll
