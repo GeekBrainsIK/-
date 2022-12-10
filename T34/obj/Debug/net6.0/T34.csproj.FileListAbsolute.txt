@@ -1,0 +1,15 @@
+C:\homework\T34\bin\Debug\net6.0\T34.exe
+C:\homework\T34\bin\Debug\net6.0\T34.deps.json
+C:\homework\T34\bin\Debug\net6.0\T34.runtimeconfig.json
+C:\homework\T34\bin\Debug\net6.0\T34.dll
+C:\homework\T34\bin\Debug\net6.0\T34.pdb
+C:\homework\T34\obj\Debug\net6.0\T34.csproj.AssemblyReference.cache
+C:\homework\T34\obj\Debug\net6.0\T34.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework\T34\obj\Debug\net6.0\T34.AssemblyInfoInputs.cache
+C:\homework\T34\obj\Debug\net6.0\T34.AssemblyInfo.cs
+C:\homework\T34\obj\Debug\net6.0\T34.csproj.CoreCompileInputs.cache
+C:\homework\T34\obj\Debug\net6.0\T34.dll
+C:\homework\T34\obj\Debug\net6.0\refint\T34.dll
+C:\homework\T34\obj\Debug\net6.0\T34.pdb
+C:\homework\T34\obj\Debug\net6.0\T34.genruntimeconfig.cache
+C:\homework\T34\obj\Debug\net6.0\ref\T34.dll
