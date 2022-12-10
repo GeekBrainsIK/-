@@ -1,0 +1,15 @@
+C:\homework\T38\bin\Debug\net6.0\T38.exe
+C:\homework\T38\bin\Debug\net6.0\T38.deps.json
+C:\homework\T38\bin\Debug\net6.0\T38.runtimeconfig.json
+C:\homework\T38\bin\Debug\net6.0\T38.dll
+C:\homework\T38\bin\Debug\net6.0\T38.pdb
+C:\homework\T38\obj\Debug\net6.0\T38.csproj.AssemblyReference.cache
+C:\homework\T38\obj\Debug\net6.0\T38.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework\T38\obj\Debug\net6.0\T38.AssemblyInfoInputs.cache
+C:\homework\T38\obj\Debug\net6.0\T38.AssemblyInfo.cs
+C:\homework\T38\obj\Debug\net6.0\T38.csproj.CoreCompileInputs.cache
+C:\homework\T38\obj\Debug\net6.0\T38.dll
+C:\homework\T38\obj\Debug\net6.0\refint\T38.dll
+C:\homework\T38\obj\Debug\net6.0\T38.pdb
+C:\homework\T38\obj\Debug\net6.0\T38.genruntimeconfig.cache
+C:\homework\T38\obj\Debug\net6.0\ref\T38.dll
