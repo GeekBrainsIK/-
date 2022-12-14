@@ -1,0 +1,15 @@
+C:\homework\T47\bin\Debug\net6.0\T47.exe
+C:\homework\T47\bin\Debug\net6.0\T47.deps.json
+C:\homework\T47\bin\Debug\net6.0\T47.runtimeconfig.json
+C:\homework\T47\bin\Debug\net6.0\T47.dll
+C:\homework\T47\bin\Debug\net6.0\T47.pdb
+C:\homework\T47\obj\Debug\net6.0\T47.csproj.AssemblyReference.cache
+C:\homework\T47\obj\Debug\net6.0\T47.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework\T47\obj\Debug\net6.0\T47.AssemblyInfoInputs.cache
+C:\homework\T47\obj\Debug\net6.0\T47.AssemblyInfo.cs
+C:\homework\T47\obj\Debug\net6.0\T47.csproj.CoreCompileInputs.cache
+C:\homework\T47\obj\Debug\net6.0\T47.dll
+C:\homework\T47\obj\Debug\net6.0\refint\T47.dll
+C:\homework\T47\obj\Debug\net6.0\T47.pdb
+C:\homework\T47\obj\Debug\net6.0\T47.genruntimeconfig.cache
+C:\homework\T47\obj\Debug\net6.0\ref\T47.dll
