@@ -1,0 +1,15 @@
+C:\homework\T56\bin\Debug\net6.0\T56.exe
+C:\homework\T56\bin\Debug\net6.0\T56.deps.json
+C:\homework\T56\bin\Debug\net6.0\T56.runtimeconfig.json
+C:\homework\T56\bin\Debug\net6.0\T56.dll
+C:\homework\T56\bin\Debug\net6.0\T56.pdb
+C:\homework\T56\obj\Debug\net6.0\T56.csproj.AssemblyReference.cache
+C:\homework\T56\obj\Debug\net6.0\T56.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework\T56\obj\Debug\net6.0\T56.AssemblyInfoInputs.cache
+C:\homework\T56\obj\Debug\net6.0\T56.AssemblyInfo.cs
+C:\homework\T56\obj\Debug\net6.0\T56.csproj.CoreCompileInputs.cache
+C:\homework\T56\obj\Debug\net6.0\T56.dll
+C:\homework\T56\obj\Debug\net6.0\refint\T56.dll
+C:\homework\T56\obj\Debug\net6.0\T56.pdb
+C:\homework\T56\obj\Debug\net6.0\T56.genruntimeconfig.cache
+C:\homework\T56\obj\Debug\net6.0\ref\T56.dll
