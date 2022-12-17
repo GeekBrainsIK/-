@@ -1,0 +1,15 @@
+C:\homework\T60\bin\Debug\net6.0\T60.exe
+C:\homework\T60\bin\Debug\net6.0\T60.deps.json
+C:\homework\T60\bin\Debug\net6.0\T60.runtimeconfig.json
+C:\homework\T60\bin\Debug\net6.0\T60.dll
+C:\homework\T60\bin\Debug\net6.0\T60.pdb
+C:\homework\T60\obj\Debug\net6.0\T60.csproj.AssemblyReference.cache
+C:\homework\T60\obj\Debug\net6.0\T60.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework\T60\obj\Debug\net6.0\T60.AssemblyInfoInputs.cache
+C:\homework\T60\obj\Debug\net6.0\T60.AssemblyInfo.cs
+C:\homework\T60\obj\Debug\net6.0\T60.csproj.CoreCompileInputs.cache
+C:\homework\T60\obj\Debug\net6.0\T60.dll
+C:\homework\T60\obj\Debug\net6.0\refint\T60.dll
+C:\homework\T60\obj\Debug\net6.0\T60.pdb
+C:\homework\T60\obj\Debug\net6.0\T60.genruntimeconfig.cache
+C:\homework\T60\obj\Debug\net6.0\ref\T60.dll
